@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "money_readers": [
+    {
+      "id": "EUR",
+      "name": "Euro",
+      "modelVersion": "1.0.0",
+      "url": "https://raw.githubusercontent.com/TEU_USER/TEU_REPO/main/readers/EUR_1.0.0.reader",
+      "sha256": "COLOCA_AQUI_O_SHA256",
+      "inputSize": 224
+    }
+  ]
+}
