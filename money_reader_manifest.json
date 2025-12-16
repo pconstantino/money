@@ -5,9 +5,10 @@
       "id": "EUR",
       "name": "Euro",
       "modelVersion": "1.0.0",
-      "url": "https://raw.githubusercontent.com/TEU_USER/TEU_REPO/main/readers/EUR_1.0.0.reader",
-      "sha256": "COLOCA_AQUI_O_SHA256",
+      "url": "https://github.com/pconstantino/money/blob/main/EUR_1.0.0.reader",
+      "sha256": "CB6542678B8829D1262E869D279452857A9B3C2A276C28600545B7295DC72883",
       "inputSize": 224
     }
   ]
 }
+
